@@ -7,7 +7,7 @@ You are working with the product team of Instagram and the product manager has a
 You are required to provide a detailed report answering the questions below :
 A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
 
-Rewarding Most Loyal Users: People who have been using the platform for the longest time.
+# Rewarding Most Loyal Users: People who have been using the platform for the longest time.
 Your Task: Find the 5 oldest users of the Instagram from the database provided
 Remind Inactive Users to Start Posting: By sending them promotional emails to post their 1st photo.
 Your Task: Find the users who have never posted a single photo on Instagram
