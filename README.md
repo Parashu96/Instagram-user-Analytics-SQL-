@@ -5,6 +5,7 @@ These insights are then used by teams across the business to launch a new market
 You are working with the product team of Instagram and the product manager has asked you to provide insights on the questions asked by the management team.
 
 You are required to provide a detailed report answering the questions below :
+
 A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
 
 1) Rewarding Most Loyal Users: People who have been using the platform for the longest time.
